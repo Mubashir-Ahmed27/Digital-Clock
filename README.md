@@ -80,7 +80,7 @@ Contributions are welcome! Feel free to fork this repo and submit a PR.
 ## 📬 Connect With Me
 
 * **GitHub:** [https://github.com/Mubashir-Ahmed27](https://github.com/Mubashir-Ahmed27)
-* **LinkedIn:** [https://linkedin.com/in/Mubashir Ahmed](https://linkedin.com/in/Mubashir-Ahmed)
+* **LinkedIn:** [https://linkedin.com/in/Mubashir Ahmed](https://www.linkedin.com/in/mubashir-ahmed-41475b367/)
 
 ---
 
